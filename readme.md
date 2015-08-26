@@ -1,4 +1,0 @@
-pushover
-========
-
-pushover notifications 
