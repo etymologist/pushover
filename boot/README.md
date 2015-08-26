@@ -4,7 +4,7 @@ This is just a basic linux/unix script that when placed in the right place, can 
 
 #### Requirements
 
-You'll need to register your application and sign up for a [Pushover API key](https://pushover.net/api) (no charge).
+You'll need to register your application and sign up for a [Pushover API key](https://pushover.net/api) (no charge). The 'token' and 'user' fields should be populated with the values you get from Pushover when signing up.
 
 #### Usage
 
