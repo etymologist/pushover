@@ -1,6 +1,6 @@
 ### Overview
 
-This is just a basic linux/unix script that when placed in the right place, can trigger a mobile or desktop pushover alert.
+This is just a basic linux/unix script that when put in the right place, can trigger a mobile or desktop pushover alert.
 
 #### Requirements
 
