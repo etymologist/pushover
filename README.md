@@ -4,7 +4,8 @@ This is just a basic linux/unix script that when put in the right place, can tri
 
 #### Requirements
 
-You'll need to register your application and sign up for a [Pushover API key](https://pushover.net/api) (no charge). The 'token' and 'user' fields should be populated with the values you get from Pushover when signing up.
+- You'll need to register your application and sign up for a [Pushover API key](https://pushover.net/api) (no charge). The 'token' and 'user' fields should be populated with the values you get from Pushover when signing up.
+- PHP curl is required.  (`apt-get install php7.4-curl`)
 
 #### Usage
 
